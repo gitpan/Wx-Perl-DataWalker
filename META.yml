@@ -1,6 +1,6 @@
 --- #YAML:1.0
 name:               Wx-Perl-DataWalker
-version:            0.01
+version:            0.02
 abstract:           Perl extension for blah blah blah
 author:
     - Steffen Mueller <smueller@cpan.org>
